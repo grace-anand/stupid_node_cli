@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "bin": {
-    "stupid_node_cli": "./index.js"
+    "@anand/silly-questions": "./index.js"
   },
   "scripts": {
     "start": "node index.js"
