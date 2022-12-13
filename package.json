@@ -1,11 +1,11 @@
 {
   "name": "stupid_node_cli",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "stupid_node_cli",
   "main": "index.js",
   "type": "module",
   "bin": {
-    "@anand/silly-questions": "./index.js"
+    "stupid_node_cli": "./index.js"
   },
   "scripts": {
     "start": "node index.js"

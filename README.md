@@ -4,5 +4,5 @@
 3. Run `npm start`
 
 ```bash
-git clone git@github.com:grace-anand/stupid_node_cli.git && cd stupid_node_cli && npm install && npm start
+npx stupid_node_cli
 ```
